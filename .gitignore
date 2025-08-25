@@ -1,0 +1,17 @@
+# IntelliJ
+.idea/
+.go-version
+
+# Mac
+.DS_Store
+.vscode
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+
+# Direnv
+.env(.*)?
+.envrc(.*)?
