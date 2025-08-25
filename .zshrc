@@ -115,5 +115,5 @@ prompt_context() {
   # Custom (Random emoji)
   emojis=("🧩")
   # RAND_EMOJI_N=$(( $RANDOM % ${#emojis[@]} + 1))
-  prompt_segment black default "Hisent ${emojis} "
+  prompt_segment black default "stems ${emojis} "
 }
